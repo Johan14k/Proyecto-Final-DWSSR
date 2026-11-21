@@ -1,0 +1,9 @@
+{
+  "name": "proyecto-final-dwssr",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "mongoose": "^9.12.3"
+  }
+}
